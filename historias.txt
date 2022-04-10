@@ -1,4 +1,2 @@
 1 primer cambio
-2 segundo cambio
-3 tecer cambio
-4 cuarto cambio
+Mañana haremos varios cambios
